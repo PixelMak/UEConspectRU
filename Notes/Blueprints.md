@@ -52,7 +52,10 @@ Child Class наследует все свойства и метода Parent Cl
 
 ![](Files/Pasted%20image%2020221208190032.png)
 
-**Полиморфизм** - Абстрактные Blueprint? 
+**Полиморфизм** - при приведении типов Cast To, наследники так же будут считаться экземплярами данного типа. 
+К примеру, если привести объект к **Cast To BP_Block_Interactive**, то его наследник **BP_Block_Interactive_Chest** так же будет успешно приведён к **BP_Block_Interactive**. 
+
+![](Files/Pasted%20image%2020221208191218.png)
 
 ---
 
