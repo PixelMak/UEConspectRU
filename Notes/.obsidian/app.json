@@ -1,1 +1,5 @@
-{}
+{
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Files",
+  "useMarkdownLinks": true
+}

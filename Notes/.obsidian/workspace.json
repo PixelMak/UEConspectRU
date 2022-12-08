@@ -32,53 +32,19 @@
             }
           },
           {
-            "id": "3a485bda743ad365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вектора.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f64399726e2ba9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Список всего.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "96fc834df574f801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b902b1c8f0f5163a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Картинки/Pasted image 20221207222325.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blueprints.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blueprints.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprints.md"
+                "file": "Main.md"
               }
             }
           }
@@ -195,16 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96fc834df574f801",
+  "active": "f64399726e2ba9cf",
   "lastOpenFiles": [
-    "Список всего.md",
     "Blueprints.md",
+    "Main.md",
+    "Pasted.md",
     "Разное.md",
-    "Материалы.md",
+    "Files/Images/Pasted image 20221208125515.png",
     "Вектора.md",
-    "Картинки/Pasted image 20221207222325.png",
-    "Картинки/Pasted image 20221206215204.png",
-    "UE4 в UE5.md",
-    "Main.md"
+    "Files/Images/Pasted image 20221207222325.png",
+    "Список всего.md",
+    "Материалы.md",
+    "Files/Images/Pasted image 20221206215204.png"
   ]
 }
