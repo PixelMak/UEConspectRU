@@ -24,6 +24,10 @@
 
 ![](Files/Images/Pasted%20image%2020221208153412.png)
 - **Timeline - Set Play Rate** - изменить скорость изменения значения на таймлайне.
+- Flip Flop - простой переключатель. К примеру можно релизовать открытие/закрытие сундука.
+
+![](Files/Pasted%20image%2020221208193538.png)
+
 
 ### Функция Cast to
 
@@ -48,14 +52,21 @@
 ![](Files/Pasted%20image%2020221208185712.png)
 
 **Наследование** - Для любого класса в UE можно создать наследника. Для этого, ПКМ на Blueprint - **Create Child Blueprint Class**.
-Child Class наследует все свойства и метода Parent Class.
+Child Class наследует все свойства и метода Parent Class. Так же доступен функционал override.
 
 ![](Files/Pasted%20image%2020221208190032.png)
 
-**Полиморфизм** - при приведении типов Cast To, наследники так же будут считаться экземплярами данного типа. 
-К примеру, если привести объект к **Cast To BP_Block_Interactive**, то его наследник **BP_Block_Interactive_Chest** так же будет успешно приведён к **BP_Block_Interactive**. 
+**Полиморфизм** - любой класс можно назначить абстрактным. 
+**Class Settings -> Advanced -> Generate Abstract Class**
+
+![](Files/Pasted%20image%2020221208195919.png)
+
+При приведении типов Cast To, наследники будут считаться экземплярами данного класса. 
+К примеру, если привести объект к абстрактному классу **Cast To BP_Block_Interactive**, то его наследник **BP_Block_Interactive_Chest** будет успешно приведён к **BP_Block_Interactive**. 
 
 ![](Files/Pasted%20image%2020221208191218.png)
+
+В Unreal нельзя создавать экземпеляры абстрактных классов.
 
 ---
 
