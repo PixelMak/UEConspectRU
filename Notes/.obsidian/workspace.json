@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "c6ab740e03a4a2c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2dc0bbc25976570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8d7fea1b647a635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Список всего.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ddafe086fcc995e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UE4 в UE5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a485bda743ad365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вектора.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f64399726e2ba9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Список всего.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96fc834df574f801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b902b1c8f0f5163a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Картинки/Pasted image 20221207222325.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f258dc721fca62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a914f2f703e4e967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d0dcd243fffc41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a796162038361aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "496aa877f0b96191",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59e1a1d85f45117e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e9ec73c2f4393a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a7f00325bab1451",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blueprints.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34b57ed99346f0c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blueprints.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "737ced9c7a39ee8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c10a41d438edfb9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blueprints.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "96fc834df574f801",
+  "lastOpenFiles": [
+    "Список всего.md",
+    "Blueprints.md",
+    "Разное.md",
+    "Материалы.md",
+    "Вектора.md",
+    "Картинки/Pasted image 20221207222325.png",
+    "Картинки/Pasted image 20221206215204.png",
+    "UE4 в UE5.md",
+    "Main.md"
+  ]
+}
