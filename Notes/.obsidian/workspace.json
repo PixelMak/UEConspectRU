@@ -8,55 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8d7fea1b647a635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основные функции UE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d17695e968611f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Настройки/Повышение FPS UE5.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a0c6d5bb4185c5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Освещение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f64399726e2ba9cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Images/Pasted image 20221208185712.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Освещение.md",
+                "file": "Files/Images/Pasted image 20221208185712.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Освещение.md",
+                "file": "Files/Images/Pasted image 20221208185712.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Освещение.md"
+                "file": "Files/Images/Pasted image 20221208185712.png"
               }
             }
           }
@@ -173,8 +134,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a0c6d5bb4185c5c",
+  "active": "f0d0dcd243fffc41",
   "lastOpenFiles": [
+    "Освещение.md",
     "Настройки/Повышение FPS UE5.md",
     "Настройки/UE4 в UE5.md",
     "Основные функции UE.md",
@@ -183,7 +145,6 @@
     "Blueprints.md",
     "Материалы.md",
     "Вектора.md",
-    "Подсказки и заметки.md",
-    "Files/Images/Pasted image 20221208125515.png"
+    "Подсказки и заметки.md"
   ]
 }
