@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed1ebba3381948a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Files/Images/Pasted image 20221211222728.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Освещение.md",
+                "file": "Files/Images/Pasted image 20221211222728.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Освещение.md",
+                "file": "Files/Images/Pasted image 20221211222728.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Освещение.md"
+                "file": "Files/Images/Pasted image 20221211222728.png"
               }
             }
           }
@@ -136,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a0c6d5bb4185c5c",
+  "active": "f0d0dcd243fffc41",
   "lastOpenFiles": [
-    "Видео уроки.md",
-    "Материалы.md",
-    "Files/Images/Pasted image 20221210222607.png",
+    "Источники и Референсы.md",
     "Освещение.md",
+    "Материалы.md",
+    "Blueprints.md",
+    "Видео уроки.md",
+    "Files/Images/Pasted image 20221210222607.png",
     "Настройки/Повышение FPS UE5.md",
     "Files/Images/Pasted image 20221208185712.png",
     "Настройки/UE4 в UE5.md",
-    "Основные функции UE.md",
-    "Main.md",
-    "Blueprints.md"
+    "Основные функции UE.md"
   ]
 }
