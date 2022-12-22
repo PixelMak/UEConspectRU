@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Освещение.md",
+                "file": "Blueprints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92664b5a78c48a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Levels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Освещение.md",
+                "file": "Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Освещение.md",
+                "file": "Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Освещение.md"
+                "file": "Levels.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed1ebba3381948a2",
+  "active": "92664b5a78c48a65",
   "lastOpenFiles": [
+    "Files/Images/Pasted image 20221213175141.png",
+    "Levels.md",
+    "Blueprints.md",
+    "Освещение.md",
     "Материалы.md",
     "Видео уроки.md",
     "Files/Images/Pasted image 20221211222728.png",
     "Источники и Референсы.md",
-    "Освещение.md",
-    "Blueprints.md",
     "Files/Images/Pasted image 20221210222607.png",
-    "Настройки/Повышение FPS UE5.md",
-    "Files/Images/Pasted image 20221208185712.png",
-    "Настройки/UE4 в UE5.md"
+    "Настройки/Повышение FPS UE5.md"
   ]
 }
