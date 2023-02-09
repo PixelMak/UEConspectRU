@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"c59e72748678f434","x":-7,"y":-283,"width":250,"height":60,"color":"6","type":"text","text":"Unreal engine 5\n"},
+		{"id":"d15ced076dc489ba","x":288,"y":-15,"width":914,"height":895,"color":"6","type":"file","file":"Основы UE5/Levels.md"},
+		{"id":"e85f1620659727ed","x":-2882,"y":-15,"width":846,"height":634,"color":"5","type":"file","file":"Основы UE5/Описание функционала.md"},
+		{"id":"f6c1031a80223ea7","x":-1937,"y":-15,"width":1125,"height":603,"color":"5","type":"file","file":"Основы UE5/Основные функции UE.md"},
+		{"id":"92955ef76a8ec3e1","x":-716,"y":-15,"width":783,"height":774,"color":"6","type":"file","file":"Основы UE5/Материалы.md"},
+		{"id":"c91550d61bd66a0f","x":1253,"y":-15,"width":662,"height":895,"color":"6","type":"file","file":"Основы UE5/Звуки.md"},
+		{"id":"2a175501f6ebcdda","x":1961,"y":-15,"width":899,"height":895,"color":"6","type":"file","file":"Основы UE5/Освещение.md"},
+		{"id":"09429c781f410512","x":2913,"y":-15,"width":937,"height":895,"color":"3","type":"file","file":"Основы UE5/Blueprints.md"},
+		{"id":"a991d909081b08fd","x":3897,"y":-15,"width":912,"height":895,"color":"6","type":"file","file":"Основы UE5/Вектора.md"},
+		{"id":"d9e316593aae9e43","x":-82,"y":-1050,"width":400,"height":400,"type":"file","file":"Main.md"},
+		{"id":"4cce8e8e44e11e46","x":-42,"y":991,"width":324,"height":56,"color":"2","type":"text","text":"Дополнительное по UE 5"},
+		{"id":"35c935c0c7ca22f1","x":-553,"y":1266,"width":620,"height":720,"color":"2","type":"file","file":"Настройки/UE4 в UE5.md"},
+		{"id":"24b466685b3fc845","x":184,"y":1266,"width":826,"height":720,"color":"2","type":"file","file":"Настройки/Повышение FPS UE5.md"},
+		{"id":"c58c743752ccfe17","x":-36,"y":2085,"width":323,"height":94,"color":"4","type":"text","text":"Обучающие материалы"},
+		{"id":"231b55a3f5bbd1fe","x":-1533,"y":2387,"width":651,"height":457,"color":"4","type":"file","file":"Материалы/Источники и Референсы.md"},
+		{"id":"1bb95a2606634f5f","x":-847,"y":2387,"width":725,"height":506,"color":"4","type":"file","file":"Материалы/Видео уроки.md"},
+		{"id":"c6a0901f48c9cba5","x":-74,"y":2387,"width":520,"height":506,"color":"4","type":"file","file":"Рефы/Музыка.md"},
+		{"id":"7dbf86a4df24255a","x":1049,"y":1266,"width":945,"height":720,"color":"2","type":"file","file":"Разное/Подсказки и заметки.md"}
+	],
+	"edges":[
+		{"id":"9fd34b9be8c7b187","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"e85f1620659727ed","toSide":"top"},
+		{"id":"5f3ab4776cb963bb","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"92955ef76a8ec3e1","toSide":"top"},
+		{"id":"88259f6352ce4d52","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"d15ced076dc489ba","toSide":"top"},
+		{"id":"1ecb11e84c279b40","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"c91550d61bd66a0f","toSide":"top"},
+		{"id":"0c0be5557b12cef2","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"2a175501f6ebcdda","toSide":"top"},
+		{"id":"dfe0e060e89a3ea0","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"09429c781f410512","toSide":"top"},
+		{"id":"2651db3794e4c864","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"4cce8e8e44e11e46","toSide":"top"},
+		{"id":"485513110b8c5a08","fromNode":"4cce8e8e44e11e46","fromSide":"bottom","toNode":"c58c743752ccfe17","toSide":"top"},
+		{"id":"e21ee4a741c0a132","fromNode":"c58c743752ccfe17","fromSide":"bottom","toNode":"1bb95a2606634f5f","toSide":"top"},
+		{"id":"593187960d5a8160","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"f6c1031a80223ea7","toSide":"top"},
+		{"id":"4d16c668095eb3e6","fromNode":"c59e72748678f434","fromSide":"bottom","toNode":"a991d909081b08fd","toSide":"top"},
+		{"id":"63711bb1430502ab","fromNode":"4cce8e8e44e11e46","fromSide":"bottom","toNode":"35c935c0c7ca22f1","toSide":"top"},
+		{"id":"9ef453b4579d201c","fromNode":"4cce8e8e44e11e46","fromSide":"bottom","toNode":"24b466685b3fc845","toSide":"top"},
+		{"id":"4e27111d17828823","fromNode":"4cce8e8e44e11e46","fromSide":"bottom","toNode":"7dbf86a4df24255a","toSide":"top"},
+		{"id":"ee7158f0a8c41765","fromNode":"d9e316593aae9e43","fromSide":"bottom","toNode":"c59e72748678f434","toSide":"top"},
+		{"id":"a1905e67e8116aae","fromNode":"c58c743752ccfe17","fromSide":"bottom","toNode":"231b55a3f5bbd1fe","toSide":"top"},
+		{"id":"e82aa0b8d6859273","fromNode":"c58c743752ccfe17","fromSide":"bottom","toNode":"c6a0901f48c9cba5","toSide":"top"}
+	]
+}

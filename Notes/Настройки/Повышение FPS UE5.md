@@ -1,3 +1,4 @@
+#Заметки 
 Отключаем динамическое освещение и прочие фишки UE5:
 
 1.  **Dynamic Global Illumination Method** -> "None"

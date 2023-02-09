@@ -1,3 +1,4 @@
+#Заметки 
 1. Отключить освещение UE4. 
 World Settings -> Lightmass -> Force No Precomputed Lights -> True
 2. Build -> Build All Levels.

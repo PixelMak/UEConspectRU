@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Освещение.md",
+                "file": "Основы UE5/Освещение.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "ed1ebba3381948a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники и Референсы.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -37,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints.md",
+                "file": "Основы UE5/Blueprints.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Видео уроки.md",
+                "file": "Разное/Подсказки и заметки.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Освещение.md",
+                "file": "Основы UE5/Освещение.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "right": {
     "id": "59e1a1d85f45117e",
@@ -134,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Видео уроки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Видео уроки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Видео уроки.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,17 +187,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f0d0dcd243fffc41",
+  "active": "ed1ebba3381948a2",
   "lastOpenFiles": [
-    "Без названия.canvas",
-    "Описание функционала.md",
-    "Видео уроки.md",
-    "Blueprints.md",
-    "Материалы.md",
-    "Источники и Референсы.md",
-    "Освещение.md",
-    "Звуки.md",
-    "Вектора.md",
-    "Настройки/Повышение FPS UE5.md"
+    "Main.md",
+    "Общая структура.canvas",
+    "Основы UE5/Освещение.md",
+    "Основы UE5/Blueprints.md",
+    "Разное/Подсказки и заметки.md",
+    "Основы UE5/Levels.md",
+    "Основы UE5/Основные функции UE.md",
+    "Рефы/Музыка.md",
+    "Основы UE5/Звуки.md",
+    "Настройки/UE4 в UE5.md"
   ]
 }

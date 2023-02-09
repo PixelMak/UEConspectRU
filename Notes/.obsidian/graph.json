@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Основы UE5\"",
+      "color": {
+        "a": 1,
+        "rgb": 5480174
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000002,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.96302083333333,
+  "lineSizeMultiplier": 2.72864583333333,
+  "collapse-forces": false,
+  "centerStrength": 0.338541666666667,
+  "repelStrength": 13.8541666666667,
+  "linkStrength": 0.666666666666667,
+  "linkDistance": 57,
+  "scale": 0.5087618855792594,
   "close": false
 }
