@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a0c6d5bb4185c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основы UE5/Освещение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed1ebba3381948a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b9bb7aa639566951",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы UE5/Blueprints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3dcf38b411db15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разное/Подсказки и заметки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92664b5a78c48a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основы UE5/Освещение.md",
+                "file": "Основы UE5/Описание функционала.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Основы UE5/Описание функционала.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Основы UE5/Описание функционала.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Основы UE5/Описание функционала.md"
+              }
             }
           }
         ]
@@ -189,15 +148,15 @@
   },
   "active": "ed1ebba3381948a2",
   "lastOpenFiles": [
-    "Main.md",
+    "Основы UE5/Вектора.md",
+    "Материалы/Видео уроки.md",
+    "Основы UE5/Описание функционала.md",
     "Общая структура.canvas",
-    "Основы UE5/Освещение.md",
     "Основы UE5/Blueprints.md",
-    "Разное/Подсказки и заметки.md",
-    "Основы UE5/Levels.md",
     "Основы UE5/Основные функции UE.md",
-    "Рефы/Музыка.md",
     "Основы UE5/Звуки.md",
-    "Настройки/UE4 в UE5.md"
+    "Основы UE5/Levels.md",
+    "Main.md",
+    "Основы UE5/Освещение.md"
   ]
 }
