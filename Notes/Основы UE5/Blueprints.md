@@ -47,6 +47,8 @@
    - Если Alpha = 0.5, то вернёт 2.5.
 - **Arrow** - Компонент. Можно вызвать **Get Forward Vector**, что бы полчить вектор направления.
 - **Fade In, Fade Out** - Воспроизведение, остановка аудио.
+- Line Trace by Channel
+![](../Files/Images/Pasted%20image%2020230215205849.png)
 
 ### Функция Cast to
 
